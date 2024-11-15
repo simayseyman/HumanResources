@@ -33,7 +33,7 @@ The project is organized into the following main components:
 ### Steps to Run
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/simayseyman/HumanResources.git>
    ```
 2. Navigate to the project directory:
    ```bash
